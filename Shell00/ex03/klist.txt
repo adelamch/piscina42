@@ -1,0 +1,5 @@
+Credentials cache: API:5226
+        Principal: amolina-@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 19:12:47 2020  Nov 24 05:12:43 2020  krbtgt/42MADRID.COM@42MADRID.COM
